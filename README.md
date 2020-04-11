@@ -9,10 +9,17 @@ The goal of OBJEX is to develop IoT systems/devices.
 Universal control system for RGB LEDs. I2C and SPI Protocol Ready.
 
 ### What is it?
+This circuit is used to remotely control RGB LEDs. With IconicHub you can control different types of LEDs simultaneously.
 
 ### Why I made this?
+I designed this circuit to control various types of RGB LEDs, for example WS2812B and APA2020.
 
 ### Features
+
+- ESP8266 - 12E
+- USB-C TYPE 2.0
+- AMS1117-3.3
+- BSS138
 
 ### Issues
 Currently the project has no technical problems.
